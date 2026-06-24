@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mangesh Bhalerao
 
-### 🚀 Aspiring AI-Powered Software Engineer
+### 🚀 Aspiring AI-Powered Software Developer
 
-🎓 BCA Graduate (2026 Passout) from Maharashtra, India
+🎓 BCA Graduate (2026 Passout)
 
 💡 Passionate about building intelligent software solutions using Python, AI, Machine Learning, and Data Analytics.
 
